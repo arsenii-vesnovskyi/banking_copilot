@@ -1,0 +1,13 @@
+1. Based on my transactions, how much did I spend on groceries in 2022?
+2. From my transactions, from which source do I get the most money from?
+3. Based on my past transactions, what are the top-3 categories I am spending the most on?
+4. Please visualize how my shopping spending changed over the year 2023
+5. Visualize the how the spending for travel changed between 2022 and 2023
+6. Send 10 EUR to Lennard Riede
+7. Send money to Arsenii Vesnovskyi
+8. Send 10000 CHF to Jose Rodriguez
+9. Can I afford a new IPhone? (might take some time)
+10. Can I afford a new Porsche 911? (might take some time)
+11. What is the weather in Barcelona?
+12. Which stocks should I invest in?
+13. Give me 5 tips how to save money.
