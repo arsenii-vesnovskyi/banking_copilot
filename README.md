@@ -1,7 +1,7 @@
 # Banking Copilot Project
 
 ## Overview
-This project is a Banking Copilot application developed using Streamlit. The application provides a personalized banking dashboard for users to manage their financial data effectively. Users can view their account balance, recent transactions, upcoming bills, and perform financial analytics.
+This project is a Banking Copilot application developed using Streamlit. The application provides a personalized banking dashboard for users to manage their financial data effectively. Users can view their account balance, recent transactions, upcoming bills, and perform financial analytics. Here is the link to the demonstration video: https://drive.google.com/file/d/1MaqZ4XMTjfGJ5GoUX16vNbKUdkmctLj4/view?usp=drive_link.
 
 ## Directory Structure
 The project directory is structured as follows:
